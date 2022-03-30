@@ -1,6 +1,7 @@
 {
   "name": "easyio",
   "version": "0.0.1",
+  "publishConfig":{"registry":"https://myserver1234.jfrog.io/artifactory/api/npm/mynpm/"}
   "description": "A tiny node.js app to test your socket.io connectivity",
   "main": "main.js",
   "repository": {
@@ -17,6 +18,4 @@
     "minimist": "^1.2.5",
     "socket.io": "^2.3.0"
   }
-
-"publishConfig":{"registry":"https://myserver1234.jfrog.io/artifactory/api/npm/mynpm/"}
 }
