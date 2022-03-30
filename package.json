@@ -17,4 +17,6 @@
     "minimist": "^1.2.5",
     "socket.io": "^2.3.0"
   }
+
+"publishConfig":{"registry":"https://myserver1234.jfrog.io/artifactory/api/npm/mynpm/"}
 }
